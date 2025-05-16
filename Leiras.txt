@@ -1,0 +1,1 @@
+Ez az adatbázis egy fodrászszalon működését modellezi. Célja, hogy nyilvántartsa az ügyfeleket, a fodrászokat, az elérhető szolgáltatásokat, az időpontfoglalásokat és a hozzájuk kapcsolódó fizetéseket.
